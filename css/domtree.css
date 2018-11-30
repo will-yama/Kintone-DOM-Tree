@@ -75,3 +75,18 @@ body {
 	     -o-transform-origin: 0 0;
 	        transform-origin: 0 0;
 }
+
+/*********************************************
+ * ADDITIONAL KINTONE STYLE
+ *********************************************/
+.app-index-container-gaia {
+    background: #2c649d;
+}
+
+.gaia-argoui-app-index-pager {
+    background: #2c649d;
+}
+
+.component-app-listtable-countitem>span{
+	color:white;
+}
